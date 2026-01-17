@@ -1,10 +1,17 @@
-# Simple Voting Contract
+📍 Contract Address  
+**0xFB16Eeeb96F26182F305d4A7269D002459b54b0b**
 
-A simple Ethereum voting smart contract deployed on the Sepolia test network.
+## 📌 Deployed Smart Contract Details
 
-## 📝 Contract Address
-`0xFB16Eeeb96F26182F305d4A7269D002459b54b0b`
+This smart contract is deployed on the **Sepolia Test Network**.
 
+You can interact with the contract using the following tabs on Etherscan:
+
+- **Read Contract** → View election status, candidates, total votes, winner
+- **Write Contract** → Create election, vote, end election  
+  (requires connecting MetaMask to Sepolia)
+
+Make sure your MetaMask is set to **Sepolia Testnet** and has test ETH before executing write functions.
 ## 📌 How It Works
 
 ### 1. Create Election
