@@ -50,3 +50,32 @@ Anyone can call:
 - MetaMask
 - Sepolia Testnet
 - Etherscan Verification
+
+- 
+Submission Summary
+
+📍 Deployed Contract Address
+0xFB16Eeeb96F26182F305d4A7269D002459b54b0b
+
+GitHub Repository
+
+https://github.com/chinwenduanyanwu01/Simple-voting-contract.git
+
+🗳️ Election Setup and Results
+
+The deployed voting contract uses three candidates:
+Candidate
+Index
+APC 0
+LP 1
+PDP 2
+
+**How Voting Works
+To vote, call
+vote(candidateIndex)
+Eg vote(candidateIndex)
+
+**How to Check Results
+To check a candidate:
+getCandidate(index)
+Returns: LP name + vote count.
